@@ -22,7 +22,7 @@ My interests include:
 
 ## 🏆 Achievements
 
-🥇 Winner of the 2026 "Smart City & Smart Village" Startup Festival held in Nakhchivan, where innovative technology-driven solutions for future cities and villages were showcased and awarded. :contentReference[oaicite:0]{index=0}
+🥇 Winner of the 2026 "Smart City & Smart Village" Startup Festival held in Nakhchivan, where innovative technology-driven solutions for future cities and villages were showcased and awarded. 
 
 ## 💻 Tech Stack
 
